@@ -20,10 +20,10 @@ Weather website that provides real-time data for real life cities.
 1. Enter a city name in the input field
 2. Click the "search" button
 3. View the current weather information including:
-
-    City name
-    Current temperature in Fahrenheit
-    Weather description
-    Weather icon
-
+<ul>
+  <li>City name</li>
+  <li>Current temperature in Fahrenheit</li>
+  <li>Weather description</li>
+  <li>Weather icons</li>
+</ul>
 Scroll through the hourly forecast section to see upcoming weather
