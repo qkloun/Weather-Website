@@ -1,6 +1,7 @@
 # Welcome
 ## Description
-Weather website that provides real-time data for real life cities.
+A sleek, modern weather application that delivers real-time weather information for cities around the globe. Built with vanilla JavaScript, this app features a beautiful glassmorphism design and provides both current conditions and hourly forecasts. With its responsive layout, you can check the weather on any device - from desktop to smartphone.
+
 ## Features
 -🌤️ Current Weather Display - Shows temperature, weather description, and weather icon<br>
 -📊 8-Hour Forecast - Displays hourly weather predictions for the next 24 hours<br>
@@ -20,10 +21,16 @@ Weather website that provides real-time data for real life cities.
 1. Enter a city name in the input field
 2. Click the "search" button
 3. View the current weather information including:
-<ul>
-  <li>City name</li>
-  <li>Current temperature in Fahrenheit</li>
-  <li>Weather description</li>
-  <li>Weather icons</li>
-</ul>
+
+-  City name
+-  Current temperature in Fahrenheit
+-  Weather description
+-  Weather icons
+
+
 Scroll through the hourly forecast section to see upcoming weather
+
+## Acknowledgments
+
+- Weather data provided by OpenWeatherMap
+- Icons provided by OpenWeatherMap
