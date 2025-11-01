@@ -27,8 +27,11 @@ A sleek, modern weather application that delivers real-time weather information 
 -  Weather description
 -  Weather icons
 
-
 Scroll through the hourly forecast section to see upcoming weather
+
+## API Call
+
+The website has a 10 min cooldown on the API call from OpenWeather, since weather doesnt change that fast and frequently.
 
 ## Acknowledgments
 
