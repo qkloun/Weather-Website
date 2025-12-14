@@ -29,6 +29,33 @@ A sleek, modern weather application that delivers real-time weather information 
 
 Scroll through the hourly forecast section to see upcoming weather
 
+
+## File Structure
+
+```
+weather-app/
+│
+├── index.html          # Main HTML structure
+├── style.css           # Styling and layout
+├── script.js           # JavaScript functionality
+└── README.md           # Project documentation
+```
+## Styling
+
+The app uses a red/burgundy color scheme. You can customize colors in `style.css`:
+- Background: `#7e7b7c` (gray)
+- Container: `#ab5052` (burgundy)
+- Button hover: `#662525` (dark red)
+
+## Future Enhancements
+
+- [ ] 5-day forecast display
+- [ ] Geolocation support for automatic location detection
+- [ ] Temperature unit toggle (Fahrenheit/Celsius)
+- [ ] Dark/light theme switcher
+- [ ] Favorite cities list
+- [ ] Weather alerts and notifications
+- [ ] More detailed weather information (humidity, wind speed, pressure)
 ## API Call
 
 The website has a 10 min cooldown on the API call from OpenWeather, since weather doesnt change that fast and frequently.
